@@ -19,18 +19,15 @@ We have trained three popular models and these are the analysis and result
 | `VGG19, pretrained`          |   70%     | 
 | `Mobilenet`                  |   73%     |   
    
-| First Header  | Second Header |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 From the above table it is clear that the proposed cnn resnet model trained from scratch we developed as part of this project gives us a better accuracy.
 Considering the model is built from scratch and we were able to achieve a decent accuracy. Below table shows result of the Model we developed :
-   Training Accuracy Validation Accuracy Testing accuracy
-97.16% 83.91% 81.24%
 
-| `Training Accuracy`   |   97.16%      |
-|` Validation Accuracy` |   83.91%      | 
-| `Testing accuracy `   |   81.24%      | 
+| Accuracy Type         | Accuracy  | 
+| --------------------- | --------  |
+| `Training Accuracy`   |   97.16%  |
+|` Validation Accuracy` |   83.91%  | 
+| `Testing accuracy `   |   81.24%  | 
 
  Below are few test images by our prediction algorithm in action, the Red box is ground truth, blue box is prediction
  
