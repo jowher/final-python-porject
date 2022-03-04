@@ -13,13 +13,11 @@ In this project, we are building an algorithm to detect a visual signal for pneu
 
 # Results and Analysis
 We have trained three popular models and these are the analysis and result
-
-| `Resnet Trained from scratch` |  81%    |
-   ---------------------------    -------                        
-| `VGG19, pretrained`           |   70%   | 
-   ---------------------------    -------                          
-| `Mobilenet`                   |   73%   | 
-   ---------------------------    -------   
+| Modal                        | Accuracy  | 
+| ---------------------------- | --------  |
+| `Resnet Trained from scratch`|   81%     |                     
+| `VGG19, pretrained`          |   70%     | 
+| `Mobilenet`                  |   73%     |   
    
 | First Header  | Second Header |
 | Content Cell  | Content Cell  |
