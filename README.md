@@ -1,4 +1,4 @@
-# final-python-porject
+# python-porject - Pneumonia detection using deep learning
 python project report and code
 Pneumonia Detection using Deep learning.
 
