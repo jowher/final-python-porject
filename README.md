@@ -15,11 +15,11 @@ In this project, we are building an algorithm to detect a visual signal for pneu
 We have trained three popular models and these are the analysis and result
 
 | `Resnet Trained from scratch` |  81%    |
-|                               |         |
+   ---------------------------    -------                        
 | `VGG19, pretrained`           |   70%   | 
-|                               |         |
+   ---------------------------    -------                          
 | `Mobilenet`                   |   73%   | 
-|                               |         |
+   ---------------------------    -------   
 
 From the above table it is clear that the proposed cnn resnet model trained from scratch we developed as part of this project gives us a better accuracy.
 Considering the model is built from scratch and we were able to achieve a decent accuracy. Below table shows result of the Model we developed :
