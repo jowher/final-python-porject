@@ -20,6 +20,11 @@ We have trained three popular models and these are the analysis and result
    ---------------------------    -------                          
 | `Mobilenet`                   |   73%   | 
    ---------------------------    -------   
+   
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 From the above table it is clear that the proposed cnn resnet model trained from scratch we developed as part of this project gives us a better accuracy.
 Considering the model is built from scratch and we were able to achieve a decent accuracy. Below table shows result of the Model we developed :
