@@ -22,7 +22,6 @@ We have trained three popular models and these are the analysis and result
    ---------------------------    -------   
    
 | First Header  | Second Header |
-| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
